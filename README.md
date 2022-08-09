@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=panzzang518)](https://solved.ac/panzzang518/)
 
-![snake gif](https://github.com/dku19jam/dku19jam/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/dku19jam/snk/blob/output/github-contribution-grid-snake.svg)
 <!--
 **dku19jam/dku19jam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
